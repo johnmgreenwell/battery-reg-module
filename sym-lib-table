@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "AP7362-33SP-13")(type "KiCad")(uri "${KIPRJMOD}/lib/LIB_AP7362-33SP-13/AP7362-33SP-13.kicad_sym")(options "")(descr ""))
+  (lib (name "MIC2779H-1YM5-TR")(type "KiCad")(uri "${KIPRJMOD}/lib/ul_MIC2779H-1YM5-TR/KiCADv6/2024-01-25_14-08-50.kicad_sym")(options "")(descr ""))
+)
