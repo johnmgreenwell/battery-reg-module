@@ -8,7 +8,7 @@
     (title "Battery Regulator Module")
     (date "2024-01-26")
     (rev "v1")
-    (company "John Greenwell")
+    (company "© John Greenwell 2024")
   )
 
   (lib_symbols
